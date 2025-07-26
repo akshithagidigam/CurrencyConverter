@@ -88,9 +88,8 @@ if __name__ == "__main__":
    pip install requests
 Run the script using:
 python your_script_name.py
-```
---
-##Sample Output
+---
+## Sample Output
 
 Currency Converter CLI Tool
 Enter the amount: 100
