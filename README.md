@@ -74,3 +74,22 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+---
+
+## How to Run
+
+1. Clone the repository or download the `.py` file.
+2. Make sure you have Python installed.
+3. Install the `requests` module if not installed:
+
+   ```bash
+   pip install requests
+
+---
+
+## Sample Output
+Enter the amount: 100
+From currency (e.g., USD): USD
+To currency (e.g., INR): INR
+100.0 USD is equal to 8330.00 INR
