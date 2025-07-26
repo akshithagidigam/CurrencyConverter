@@ -16,7 +16,7 @@ It takes an amount, source currency, and target currency as input and converts t
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - **Python 3**
 - **requests** library
@@ -24,7 +24,7 @@ It takes an amount, source currency, and target currency as input and converts t
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. The user is prompted to enter:
    - Amount to convert
@@ -77,19 +77,23 @@ if __name__ == "__main__":
 
 ---
 
-## How to Run
+## How to Run & Sample Output
 
 1. Clone the repository or download the `.py` file.
 2. Make sure you have Python installed.
-3. Install the `requests` module if not installed:
+3. Install the `requests` module if not already installed:
 
    ```bash
    pip install requests
+Run the script using:
+python your_script_name.py
+--
+##Sample Output
 
----
-
-## Sample Output
+Currency Converter CLI Tool
 Enter the amount: 100
 From currency (e.g., USD): USD
 To currency (e.g., INR): INR
-100.0 USD is equal to 8330.00 INR
+
+100.0 USD = 8330.0 INR
+
