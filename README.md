@@ -88,13 +88,18 @@ if __name__ == "__main__":
    pip install requests
 Run the script using:
 python your_script_name.py
+
 ---
+
 ## Sample Output
 
+```
 Currency Converter CLI Tool
 Enter the amount: 100
 From currency (e.g., USD): USD
 To currency (e.g., INR): INR
 
 100.0 USD = 8330.0 INR
+```
+
 
